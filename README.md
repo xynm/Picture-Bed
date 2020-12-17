@@ -38,9 +38,3 @@
 
 ![](https://raw.githubusercontent.com/souyunku/file-manager/master/doc/index-9.png)
 
-
-### Wechat
-
-关注公众号，搜云库技术团队，专注于开发技术的研究与知识分享
- 
-![关注公众号-搜云库技术团队](https://www.souyunku.com/images/souyunku.png "搜云库技术团队")
